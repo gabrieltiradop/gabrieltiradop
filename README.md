@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrieltiradop
 - 👀 I’m interested in deep learning-based recommender systems, data science, optimization & sleep research
 - 🌱 I’m currently finishing my M.S. thesis on DL-based recommender systems
-- 💞️ I’m looking to collaborate on small projects related to
+- 💞️ I'm looking to collaborate in small projects related to the above topics (but not limited to them).
 - 📫 How to reach me: gabriel.tirado@cimat.mx
